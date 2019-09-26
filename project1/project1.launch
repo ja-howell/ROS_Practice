@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-    <node pkg="project1" type="battery_sensor.py" name="battery_sensor"/>
-    <node pkg="project1" type="movement_controller.py" name="movement_controller"/>
-    <node pkg="project1" type="behavior_coordinator.py" name="behavior_coordinator"/>
-
-</launch>
